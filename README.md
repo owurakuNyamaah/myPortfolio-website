@@ -1,6 +1,6 @@
 # 💼 Owuraku Nyamaah's Portfolio Website
 
-Welcome to the source code repository for my personal portfolio website — [www.owurakunyamaah.co.uk/portfolio](https://www.owurakunyamaah.co.uk). This site showcases my work, skills, and background as a passionate and growing web/software developer.
+Welcome to the source code repository for my personal portfolio website — [www.owurakunyamaah.co.uk](https://www.owurakunyamaah.co.uk). This site showcases my work, skills, and background as a passionate and growing web/software developer.
 
 ## 🚀 About the Project
 
